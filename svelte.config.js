@@ -8,7 +8,6 @@ const config = {
       precompress: true,
     }),
   },
-
   preprocess: [
     preprocess({
       postcss: true,
